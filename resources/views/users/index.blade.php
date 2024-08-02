@@ -8,11 +8,11 @@
     @endif
     <table>
         <tr>
-            <th>Nome</th>
-            <th>Nome de usuario</th>
+            <th>Name</th>
+            <th>Username</th>
             <th>Email</th>
-            <th>telefone</th>
-            <th>Endereço</th>
+            <th>Phone</th>
+            <th>Address</th>
             <th>Actions</th>
         </tr>
         @foreach ($users as $user)
